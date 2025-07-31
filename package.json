@@ -1,0 +1,25 @@
+{
+  "name": "linknest-mobile",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "^53.0.0",
+    "react": "19.0.0",
+    "react-native": "0.79.5",
+    "@supabase/supabase-js": "^2.5.0",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "react-native-url-polyfill": "^1.3.0",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "@types/react": "~19.0.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
