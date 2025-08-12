@@ -19,3 +19,8 @@ playwright.*
 
 test-results/
 supabase.ts
+
+node_modules
+dist
+dist-ssr
+*.local
